@@ -1,2 +1,2 @@
-# ProjectAkarb-Lite-Release
-Battlefield 1 server management toolkit | Lite version
+# ProjectAkarb Lite
+Battlefield 1 server management toolkit
